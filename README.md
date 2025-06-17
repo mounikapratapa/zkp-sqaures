@@ -10,3 +10,12 @@ Rust mini-project demonstrating a **Groth16 zk-SNARK** that proves knowledge of 
 
 ```bash
 cargo run
+```
+## Expected Output
+
+```text
+Secret value x: 123…
+Public value y: 15129…
+Proof verifies: true
+Tampered y verifies: false
+
